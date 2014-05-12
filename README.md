@@ -1,3 +1,3 @@
 Web
 ===
-A website made for the Web Technologies course. It was done in HTML5/CSS3 and Javascript.
+This is a game (Hangman) made in HTML5 and Javascript, using Canvas elements.
