@@ -1,0 +1,91 @@
+#hangman {
+	position: absolute;
+	width: 50%;
+	left: 8%;
+	top: 18%;
+	/*border: 1px solid red;*/
+}
+
+#letters {
+	position: absolute;	
+	width: 42%;
+	left: 55%;
+	top: 10%;
+	/*border: 1px solid black*/
+}
+
+#letterContainer {
+	/*margin-top: 400px;*/
+	position: relative;
+	top: 400px;
+}
+#stopwatch {
+	font-size: 200%;
+	text-indent: 22%;
+	font-weight: bold;
+	color: red;
+	position: relative;
+	top: 100px;
+}
+
+#result {
+	/*position: relative;
+	bottom: 400px;*/
+	text-indent: 22%;
+	font-weight: bold;
+	font-size: 250%;
+	color: red;
+}
+
+.b1 {
+	width: 9%;
+	height: 9%;
+	background-color: white;
+	font-weight: bold;
+	font-size: 230%;
+	border: 0px;
+}
+
+.b2 {
+	width: 8%;
+	height: 8%;
+	margin-left: 1%;
+	margin-top: auto;
+	background-color: white;
+	font-weight: bold;
+	font-size: 220%;
+	border-right: 0px;
+	border-bottom: 3px solid black;
+}
+
+
+.newstyle {
+	width: 10%;
+	height: 10%;
+	border: 0px;
+	background-color: white;
+	font-weight: bold;
+	font-size: 200%;
+	text-align: center;
+	position: relative;
+	top: 10%;
+}
+
+.newstyleRed {
+	width: 10%;
+	height: 10%;
+	border: 0px;
+	background-color: white;
+	font-weight: bold;
+	font-size: 200%;
+	color: red;
+	text-align: center;
+	position: relative;
+	top: 10%;
+}
+
+
+#word {
+	margin-left: 10%;
+	margin-bottom:3%;
+}
